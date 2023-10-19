@@ -56,7 +56,7 @@ a:hover,a:focus{
     color:#58c4dc;
     text-decoration:none
 } */
-ul{
+.ul-custom {
     margin:0;
     padding:0;
     list-style:none
@@ -1323,4 +1323,8 @@ section{
 .crunchify-top:hover{
     background-color:#31a0b1;
     color:#fff
+}
+
+.header-in-paragraph {
+    margin-bottom: 20px;
 }
